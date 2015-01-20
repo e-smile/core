@@ -1,3 +1,3 @@
 # core
 
-[e-smile core](www.e-smile.org) is not yet on github. But keep posted.
+[e-smile core](http://www.e-smile.org) is not yet on github. But keep posted.
